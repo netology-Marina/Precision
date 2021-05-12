@@ -7,15 +7,15 @@
 На тестирование затрачено: 30 мин
 
 В результате тестирования выявлены следующие дефекты:
-* [Некорректная работа кода в проекте Precision ](https://github.com/netology-Marina/Precision/issues/1)
+* [Некорректный подсчет итоговой суммы начисленных бонусов  в проекте Precision ](https://github.com/netology-Marina/Precision/issues/1)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
 
-* чек-лист
-  
-  ![img.png](img.png)
+* [Чек-лист](D:\Precision\check list.md)
+* [тест-кейс](D:\Precision\test case.md)
+
   
 * тест-кейс
 ![img_1.png](img_1.png)
