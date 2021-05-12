@@ -13,13 +13,10 @@
 
 В процессе тестирования использовались следующие артефакты:
 
-* [Чек-лист](D:\Precision\check list.md)
-* [тест-кейс](D:\Precision\test case.md)
+* [Чек-лист](https://github.com/netology-Marina/Precision/blob/master/check%20list.md)
+* [тест-кейс](https://github.com/netology-Marina/Precision/blob/master/test%20case.md)
 
   
-* тест-кейс
-![img_1.png](img_1.png)
-
 
 
 В качестве тестовых данных использовались данные:
